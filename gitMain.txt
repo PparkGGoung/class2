@@ -7,3 +7,4 @@ document.quarySelector('click', ()=>{
 하하하하.
 
 });
+
