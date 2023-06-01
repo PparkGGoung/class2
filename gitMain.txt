@@ -7,3 +7,11 @@ document.quarySelector('click', ()=>{
 오늘 업무 다 했어...
 
 });
+
+document.quarySelector('click', ()=>{
+
+정솔아 잘 듣고 있죠?
+
+오늘 업무 다 했어...2
+
+});
