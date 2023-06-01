@@ -10,4 +10,15 @@ document.quarySelector('click', ()=>{
 오늘 업무 다 했어...
 
 });
+<<<<<<< HEAD
 >>>>>>> 2219d679488bb995dae66b2277079c1ff6ba8110
+=======
+
+document.quarySelector('click', ()=>{
+
+정솔아 잘 듣고 있죠?
+
+오늘 업무 다 했어...2
+
+});
+>>>>>>> ccdc513b78aeb919f089a3db6166271205f15817
